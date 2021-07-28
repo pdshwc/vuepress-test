@@ -7,7 +7,7 @@ module.exports = {
   lang: "zh-CN",
   title: "你好， VuePress ！",
   description: "这是我的第一个 VuePress 站点",
-
+ base:'/vuepress-test/',
   themeConfig: {
     logo: "https://vuejs.org/images/logo.png",
     // 如果你按照 `organization/repository` 的格式设置它
@@ -15,6 +15,6 @@ module.exports = {
     // 你也可以直接将它设置为一个 URL
     repo: "pdshwc/vuepress-test",
     docsDir: "docs",
-    base:'/vuepress-test/'
+   
   },
 };
