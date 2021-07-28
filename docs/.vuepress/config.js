@@ -1,7 +1,7 @@
 /*
  * @Date: 2021-07-27 19:59:04
  * @LastEditors: pdshwc
- * @LastEditTime: 2021-07-27 22:44:39
+ * @LastEditTime: 2021-07-28 14:16:38
  */
 module.exports = {
   lang: "zh-CN",
@@ -15,6 +15,6 @@ module.exports = {
     // 你也可以直接将它设置为一个 URL
     repo: "pdshwc/vuepress-test",
     docsDir: "docs",
-    base:'/vuepress/'
+    base:'/vuepress-test/'
   },
 };
